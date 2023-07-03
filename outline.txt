@@ -1,2 +1,6 @@
 Chapter 1
-- We meet Nick, Tom, Daisy, and Jordan
+- We meet Nick, Tom, Daisy, and jordan
+
+Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit. Phasellus 
+semper dui vel quam gravida laoreet. Aenean sit amet ultrices lorem. Vestibulum vel ante et enim pulvinar viverra. Sed quis euismod odio. Integer fringilla nisl tortor. Sed pellentesque auctor ex eget molestie. Fusce auctor pellentesque nisi vitae volutpat. Vestibulum dui nisl, sagittis a urna vel, porta pretium lectus. Nam sagittis ex lectus, eu vulputate nunc ultrices vel. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse maximus odio blandit volutpat pharetra. Donec sit amet dictum ex. Duis quis ex nisl. Duis quis ex arcu. Morbi id sapien commodo, lacinia dolor ut, elementum sem.
